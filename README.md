@@ -6,7 +6,7 @@
 
 <br/>
 
-## **_Latihan 2_**
+## **_lATIHAN 2_**
 
 ### _Data Barang :_
 
