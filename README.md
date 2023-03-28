@@ -10,7 +10,7 @@
 
 ### _Data Barang :_
 
-<img src="lab4_PHP_Database/gambar/dataBase.png" style="border: 2px solid #333; border-radius: 5px; box-shadow: 2px 2px 4px #00000040">
+<img src="lab4_PHP_database/gambar/dataBase.png" style="border: 2px solid #333; border-radius: 5px; box-shadow: 2px 2px 4px #00000040">
 
 ### _Penjelasan :_
 
