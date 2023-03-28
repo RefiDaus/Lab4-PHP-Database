@@ -1,37 +1,61 @@
 # PROJECT PRAKTIKUM 2 (PHP Dasar)
 
-**_Nama: Refi Daus Nur Trama_** <br/>
-**_Nim : 312110381_** <br/>
-**_Kelas : TI.21.A1_** <br/>
+**_Nama: Mafttuhin Amanulloh_** <br/>
+**_Nim : 312110610_** <br/>
+**_Kelas : TI.21.A3_** <br/>
 
 <br/>
 
 ## **Latihan 2**
 
-
 ### _Data Barang :_
 
-![gambar 1](gambar/data-barang.png)
+<img src="lab3_php_database/gambar/dataBase.png" style="border: 2px solid #333; border-radius: 5px; box-shadow: 2px 2px 4px #00000040">
 
 ### _Penjelasan :_
 
 - buat lah data base dengan nama latihan1
 - buat tabel dengan nama data_barang
 - sesuai dengan struktur pada gambar diatas
-- buatlah file koneksi.php
-```php
-<?php
-$host = "localhost";
-$user = "root";
-$pass = "";
-$db = "latihan1";
-$conn = mysqli_connect($host, $user, $pass, $db);
-if ($conn == false)
-{
-echo "Koneksi ke server gagal.";
-die();
-} #else echo "Koneksi berhasil";
-?>
 
-```
+### _strutur folder :_
 
+<img src="lab3_php_database/gambar/struktur-folder.png" style="border: 2px solid #333; border-radius: 5px; box-shadow: 2px 2px 4px #00000040">
+
+### _Penjelasan :_
+
+- buat folder lab3_php_database
+- didalamnya berisi folder gambar
+- file koneksi.php
+- file index.php
+- file hapus.php
+- file tambah.php
+- file ubah.php
+- file style.css
+- file style.fitur.css
+
+
+### _Data Barang :_
+
+<img src="lab3_php_database/gambar/data-barang.png" style="border: 2px solid #333; border-radius: 5px; box-shadow: 2px 2px 4px #00000040">
+
+- data barang menampilkan data yang ada pada database `latihan1` table `lab3_php_database` ,menampilkan gambar,data barang ,kategori,harga jual ,harga beli ,stok,dan aksi
+- terdapat tiga button yaitu:
+- button tambah barang untuk menambahkan data barang ,
+- button ubah untuk mengubah data barang sesuai id brang,
+- button hapus untuk menghapus data barang sesuai id barang
+### _tambah data :_
+
+<img src="lab3_php_database/gambar/tambah.png" style="border: 2px solid #333; border-radius: 5px; box-shadow: 2px 2px 4px #00000040">
+
+### _hasilnya :_
+
+<img src="lab3_php_database/gambar/hasilTambah.png" style="border: 2px solid #333; border-radius: 5px; box-shadow: 2px 2px 4px #00000040">
+
+### _ubah data :_
+
+<img src="lab3_php_database/gambar/ubah.png" style="border: 2px solid #333; border-radius: 5px; box-shadow: 2px 2px 4px #00000040">
+
+### _hasilnya :_
+
+<img src="lab3_php_database/gambar/hasilUbah.png" style="border: 2px solid #333; border-radius: 5px; box-shadow: 2px 2px 4px #00000040">
