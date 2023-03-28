@@ -1,4 +1,4 @@
-# PROJECT PRAKTIKUM 2 (PHP Dasar)
+# PROJECT PRAKTIKUM 2 (_PHP Dasar_)
 
 **_Nama: Refi Daus Nur Trama_** <br/>
 **_Nim : 312110381_** <br/>
