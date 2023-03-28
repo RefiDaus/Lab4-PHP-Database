@@ -11,7 +11,7 @@
 
 ### _Data Barang :_
 
-<img src="gambar/dataBase.png" style="border: 2px solid #333; border-radius: 5px; box-shadow: 2px 2px 4px #00000040">
+![gambar 1](gambar/data-barang.png)
 
 ### _Penjelasan :_
 
