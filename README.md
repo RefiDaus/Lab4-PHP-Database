@@ -1,8 +1,8 @@
 # PROJECT PRAKTIKUM 2 (PHP Dasar)
 
-**_Nama: Mafttuhin Amanulloh_** <br/>
-**_Nim : 312110610_** <br/>
-**_Kelas : TI.21.A3_** <br/>
+**_Nama: Refi Daus Nur Trama_** <br/>
+**_Nim : 312110381_** <br/>
+**_Kelas : TI.21.A1_** <br/>
 
 <br/>
 
@@ -20,7 +20,7 @@
 
 ### _strutur folder :_
 
-<img src="lab3_php_database/gambar/struktur-folder.png" style="border: 2px solid #333; border-radius: 5px; box-shadow: 2px 2px 4px #00000040">
+<img src="lab4_PHP_database/gambar/struktur-folder.png" style="border: 2px solid #333; border-radius: 5px; box-shadow: 2px 2px 4px #00000040">
 
 ### _Penjelasan :_
 
@@ -37,25 +37,25 @@
 
 ### _Data Barang :_
 
-<img src="lab3_php_database/gambar/data-barang.png" style="border: 2px solid #333; border-radius: 5px; box-shadow: 2px 2px 4px #00000040">
+<img src="lab4_PHP_database/gambar/data-barang.png" style="border: 2px solid #333; border-radius: 5px; box-shadow: 2px 2px 4px #00000040">
 
-- data barang menampilkan data yang ada pada database `latihan1` table `lab3_php_database` ,menampilkan gambar,data barang ,kategori,harga jual ,harga beli ,stok,dan aksi
+- data barang menampilkan data yang ada pada database `latihan1` table `lab4_PHP_database` ,menampilkan gambar,data barang ,kategori,harga jual ,harga beli ,stok,dan aksi
 - terdapat tiga button yaitu:
 - button tambah barang untuk menambahkan data barang ,
 - button ubah untuk mengubah data barang sesuai id brang,
 - button hapus untuk menghapus data barang sesuai id barang
 ### _tambah data :_
 
-<img src="lab3_php_database/gambar/tambah.png" style="border: 2px solid #333; border-radius: 5px; box-shadow: 2px 2px 4px #00000040">
+<img src="lab4_PHP_database/gambar/tambah.png" style="border: 2px solid #333; border-radius: 5px; box-shadow: 2px 2px 4px #00000040">
 
 ### _hasilnya :_
 
-<img src="lab3_php_database/gambar/hasilTambah.png" style="border: 2px solid #333; border-radius: 5px; box-shadow: 2px 2px 4px #00000040">
+<img src="lab4_PHP_database/gambar/hasilTambah.png" style="border: 2px solid #333; border-radius: 5px; box-shadow: 2px 2px 4px #00000040">
 
 ### _ubah data :_
 
-<img src="lab3_php_database/gambar/ubah.png" style="border: 2px solid #333; border-radius: 5px; box-shadow: 2px 2px 4px #00000040">
+<img src="lab4_PHP_database/gambar/ubah.png" style="border: 2px solid #333; border-radius: 5px; box-shadow: 2px 2px 4px #00000040">
 
 ### _hasilnya :_
 
-<img src="lab3_php_database/gambar/hasilUbah.png" style="border: 2px solid #333; border-radius: 5px; box-shadow: 2px 2px 4px #00000040">
+<img src="lab4_PHP_database/gambar/hasilUbah.png" style="border: 2px solid #333; border-radius: 5px; box-shadow: 2px 2px 4px #00000040">
